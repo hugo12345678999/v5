@@ -1,3 +1,3 @@
-REACT_APP_SERVIDOR = https://seuServidor.herokuapp.com
+REACT_APP_SERVIDOR = https://v55-31bdcc602d66.herokuapp.com
 CI = false
 REACT_APP_PAYMENT_ACCESS_TOKEN = TEST-1125886907240747
